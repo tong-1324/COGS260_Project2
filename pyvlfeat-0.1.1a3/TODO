@@ -1,8 +1,0 @@
-TODO list
-
-* Make matplotlib dependency optional
-* Improve tests
-* Add docs
-* Reduce compilation errors(!)
-* Remove 'vl_' prefixes
-* Handle wrapper-level type errors 
